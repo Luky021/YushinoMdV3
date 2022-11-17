@@ -44,27 +44,27 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282131369002'
-global.nomorown = '6285172446692'
-global.nomorown1 = '6285172446692'
-global.nomorown2 = '6285757256591'
+global.nomorbot = '6281273419353'
+global.nomorown = '6281273419353'
+global.nomorown1 = '6282184635341'
+global.nomorown2 = '6281273419353'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
-global.namebot = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
-global.wm = '© 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓'
+global.author = 'Luky Store'
+global.namebot = 'KyyBotzz'
+global.wm = '© Cread by kyyBotzz'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
-global.wm2 = '𝐕𝐈𝐂𝐓𝐎𝐑 𝐁𝐎𝐓 '
+global.wm2 = 'KyyBotzz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘`
-global.stickpack = '𝐋𝐄𝐕𝐈 𝐗 𝐐𝐎𝐑𝐘'
+global.titlebot = `Luky Store`
+global.stickpack = 'Luky Store'
 global.stickauth = `© 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -77,19 +77,19 @@ global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
+global.sig = 'https://instagram.com/luky_store021'
+global.sgh = 'https://github.com/luky021' //github
+global.sgc = 'https://https://chat.whatsapp.com/COjh338s9rxI35ItkkBLpa' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
+global.snh = 'https://youtube.com/Ky_Ofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
+global.pdana = '083809777463'
 global.povo = '-'
-global.pgopay = '085172446692'
+global.pgopay = '081273419353'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '082184635341'
+global.ppulsa2 = '081273419353'
 global.psaweria = '-'
 
 
