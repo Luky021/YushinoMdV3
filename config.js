@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'levi 😸', true],
-['6285757256591', 'qory 😸', true]
+['6281273419353', 'luky Japost 😸', true],
+['6282184635341', 'luky rekber 😸', true]
 ]
 global.mods = []
 global.prems = []
@@ -48,7 +48,7 @@ global.nomorbot = '6281273419353'
 global.nomorown = '6281273419353'
 global.nomorown1 = '6282184635341'
 global.nomorown2 = '6281273419353'
-global.nomorwa = '0'
+global.nomorwa = '6281273419353'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -65,12 +65,12 @@ global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `Luky Store`
 global.stickpack = 'Luky Store'
-global.stickauth = `© 𝚅𝙸𝙲𝚃𝙾𝚁 𝙱𝙾𝚃`
+global.stickauth = `© KyyBotzz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'levi 😸'
-global.nameown2 = 'qory 😸'
+global.nameown1= 'luky 😸'
+global.nameown2 = 'kyy 😸'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
 global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
@@ -85,7 +85,7 @@ global.snh = 'https://youtube.com/Ky_Ofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '083809777463'
-global.povo = '-'
+global.povo = '082184635341'
 global.pgopay = '081273419353'
 global.plinkaja = '-' //link aja
 global.ppulsa = '082184635341'
